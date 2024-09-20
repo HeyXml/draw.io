@@ -165,7 +165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mE_IgQp_bbBxzPFS58c7-75" value="场景控制台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="640" y="220" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
